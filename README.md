@@ -47,6 +47,12 @@ The cost of one meal is set to Rs. 60.
 - Python 3.x
 - No external libraries are required.
 
+- ## Technologies Used
+
+- Python 3
+- File handling
+- Text file storage
+
 ## How to Run
 
 Open the project folder in a terminal and run:
@@ -83,6 +89,10 @@ The file is created when a student is added to the system.
 
 - `hostel_mess.py` - Main Python program
 - `README.md` - Project information and instructions
+
+- ## Testing
+
+The program was tested by using its different menu options, such as adding students, viewing student details, marking meals, searching for students, and calculating the mess bill.
 
 ## Conclusion
 
